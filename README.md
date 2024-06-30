@@ -40,7 +40,7 @@ Distribuido bajo la Licencia MIT. Consulta [LICENSE.txt](LICENCE.txt) para más 
 
 Manuel Fernando Sánchez Alarcón  - mf.sanchez17@uniandes.edu.co
 
-Enlace al Proyecto: [https://github.com/Spoksonat/Articulo-Phantoms/tree/main](https://github.com/Spoksonat/Articulo-Phantoms/tree/main)
+Enlace al Proyecto: [https://github.com/Spoksonat/Datos_NOMEX](https://github.com/Spoksonat/Datos_NOMEX)
 
 ## Agradecimientos
 
